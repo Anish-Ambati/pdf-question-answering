@@ -10,7 +10,8 @@ This project implements a PDF Question Answering System using Word2Vec embedding
 ## Pretrained Model and Dataset Used
 - word2vec
 
-
+## Project Demonstartion:
+https://drive.google.com/drive/folders/1ZaRDOf0ijPsQSMNlHmZL1lXGLVTIxNPa?usp=sharing
 ## Dependencies
 
 - `gensim`
